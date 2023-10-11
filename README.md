@@ -1,3 +1,3 @@
 # Beginner
 This is My First Git Repository </BR>
-Author:-Harshal 
+Author:- Harshal Mahajan
